@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hjtazzi&label=ProfileViews&color=fd428e&style=flat" alt="HojjatAzizi" />
-  <img src="https://img.shields.io/badge/Age-21-fd428e" />
+  <img src="https://img.shields.io/badge/Age-22-fd428e" />
   <img src="https://img.shields.io/badge/Focus-FullStackWebDeveloper-fd428e" />
   <img src="https://img.shields.io/badge/Lives-Tehran-fd428e" />
 </div>
