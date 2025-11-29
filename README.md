@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>.
+  🌱 Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>.
 </p>
 
 <br/>
@@ -14,11 +14,11 @@
 </h2>
 
 <p align="center">
-  <img src="assets/typescript.svg" width="38" />
-  <img src="assets/javascript.svg" width="38" />
-  <img src="assets/nodejs.svg" width="38" />
-  <img src="assets/mongodb.svg" width="38" />
-  <img src="assets/react.svg" width="38" />
+  <img src="assets/typescript.svg" width="36" />
+  <img src="assets/javascript.svg" width="36" />
+  <img src="assets/nodejs.svg" width="36" />
+  <img src="assets/mongodb.svg" width="36" />
+  <img src="assets/react.svg" width="36" />
 </p>
 
 <br/>
