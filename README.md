@@ -1,33 +1,32 @@
 <h2 align="center">
   <img src="assets/waving-hand.gif" width="22" />
-  Hi all. I am <strong>Hojjat Azizi</strong>
+  &nbsp;Hi all, I'm <strong>Hojjat Azizi</strong>
 </h2>
 
 <p align="center">
   Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>.
 </p>
 
-<p>&nbsp;</p>
+<br/>
 
 <h2 align="center">
   ✨ Tech Stack
 </h2>
 
 <p align="center">
-  <img src="assets/typescript.svg" width="40" />
-  <img src="assets/javascript.svg" width="40" />
-  <img src="assets/nodejs.svg" width="40" />
-  <img src="assets/mongodb.svg" width="40" />
-  <img src="assets/react.svg" width="40" />
+  <img src="assets/typescript.svg" width="38" />
+  <img src="assets/javascript.svg" width="38" />
+  <img src="assets/nodejs.svg" width="38" />
+  <img src="assets/mongodb.svg" width="38" />
+  <img src="assets/react.svg" width="38" />
 </p>
 
-<p>&nbsp;</p>
+<br/>
+
+<p align="center"><em>// Available for collaboration, coffee, or code ☕</em></p>
 
 <p align="center">
-  // Available for collaboration, coffee, or code ☕
-</p>
-<p align="center">
-  <img alt="Night Coding GIF" src="assets/night-coding.gif"/>
+  <img alt="Night Coding GIF" src="assets/night-coding.gif" width="320" />
 </p>
 
 <p align="center">
