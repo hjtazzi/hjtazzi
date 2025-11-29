@@ -1,20 +1,16 @@
-<h2 align="center">
-  <img src="assets/waving-hand.gif" width="22" />&nbsp;
-  Hi all. I am <strong>Hojjat Azizi</strong>
-</h2>
+<h3 align="center">
+  <img src="assets/waving-hand.gif" width="22" />
+  Hi all. I am <h2>Hojjat Azizi</h2>
+</h3>
 
 <p align="center">
   Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>.
 </p>
 
-<p align="center">
-  // available for collaboration, coffee, or code ☕
-</p>
-
 <p>&nbsp;</p>
 
 <h2 align="center">
-✨ Tech Stack
+  ✨ Tech Stack
 </h2>
 
 <p align="center">
@@ -28,6 +24,7 @@
 <p>&nbsp;</p>
 
 <p align="center">
+  // available for collaboration, coffee, or code ☕
   <img alt="Night Coding GIF" src="assets/night-coding.gif"/>
 </p>
 
