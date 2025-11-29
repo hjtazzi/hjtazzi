@@ -4,7 +4,11 @@
 </h2>
 
 <p align="center">
-  Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>
+  Backend developer focused on <strong>Node.js</strong> and <strong>TypeScript</strong>.
+</p>
+
+<p align="center">
+  // available for collaboration, coffee, or code ☕
 </p>
 
 <p>&nbsp;</p>
