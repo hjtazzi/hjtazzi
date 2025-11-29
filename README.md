@@ -1,6 +1,6 @@
 <h2 align="center">
-  <img src="assets/waving-hand.gif" width="25" />&nbsp;
-  Hi all. I am Hojjat Azizi
+  <img src="assets/waving-hand.gif" width="22" />&nbsp;
+  Hi all. I am <strong>Hojjat Azizi</strong>
 </h2>
 
 <p align="center">
@@ -9,7 +9,9 @@
 
 <p>&nbsp;</p>
 
-## ✨ Tech Stack
+<h2 align="center">
+✨ Tech Stack
+</h2>
 
 <p align="center">
   <img src="assets/typescript.svg" width="40" />
